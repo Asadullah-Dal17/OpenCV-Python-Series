@@ -32,7 +32,8 @@ How to setup environment for OpenCV Python
 | 13 |Draw Text|:x: |
 | 14 |Draw Line|:x: |
 
-Video Analysis 📹
+### Video Analysis 📹
+
 | No: | Topics | Status | YouTube Video |
 ----|---|---|---|
 | 15 |Reading the Video feed from camera 📷| :x: | |
@@ -41,7 +42,8 @@ Video Analysis 📹
 | 18 |Edges Detection| :x: | |
 | 19 |Resizing the frame| :x: | |
 
-important Function/methods in Opencv
+### important Function/methods in Opencv
+
 | No: | Topics | Status | YouTube Video |
 ----|---|---|---|
 | 20 |Gaussian Blur to de-nosing images| :x: | |
